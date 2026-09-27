@@ -58,8 +58,8 @@ My goal is to become a skilled **software developer** by strengthening my progra
 ## 📫 Connect With Me
 
 - **GitHub:** [Krishna Prasanth V](https://github.com/krishnaprasanthv2006)
-- **LinkedIn:** (https://www.linkedin.com/in/krishna-prasanth-v-056223372/)
-- **Portfolio:** (https://krishnaprasanthv2006.github.io/Portfolio/)
+- **LinkedIn:** https://www.linkedin.com/in/krishna-prasanth-v-056223372/
+- **Portfolio:** https://krishnaprasanthv2006.github.io/Portfolio/
 
 ---
 
